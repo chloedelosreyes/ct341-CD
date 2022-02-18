@@ -1,15 +1,16 @@
 /* Typography */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #000000;
+}
 
 h1, h2 {
     font-family: 'Yeseva One', cursive;
     color: #80b1b3;
 }
 
-p, a {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
-    color: #000000;
-}
+
 
 /* Layout */
 
